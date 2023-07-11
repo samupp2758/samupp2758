@@ -3,7 +3,7 @@
 
 -🔭 Mobile with ReactNative\
 -🌱 Web with ReactJS\
--⚡  Back-end with Nodejs/PHP/Spring\
+-⚡  Back-end with Nodejs/PHP/
 -💬 ML with Tensorflow\
 -📫 Database with SQL/RealmDB
 
