@@ -27,15 +27,6 @@ I build production software end to end, from the data layer and APIs through to 
 | Back end | Node.js, Express |
 | Data | SQL databases, Realm |
 
-## Selected projects
-
-| Project | Description |
-| --- | --- |
-| [networked-virtual-file-system](https://github.com/samupp2758/networked-virtual-file-system) | Unix-style, inode-based file system in C++ with a TCP file server and an interactive client shell |
-| [thoth-app](https://github.com/samupp2758/thoth-app) | Question-and-answer forum app for school subjects, built with React Native, Express and Realm |
-| [Conversor-API](https://github.com/samupp2758/Conversor-API) | Node.js service that converts bibliographic data into network formats for Gephi and VOSviewer |
-| [calculus1_final_project](https://github.com/samupp2758/calculus1_final_project) | Regression equation calculator in JavaScript and Python |
-
 ## Get in touch
 
 Visit my [website](https://samupp2758.github.io) to see more of my work or to reach me.
